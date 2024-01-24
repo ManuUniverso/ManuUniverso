@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ManuUniverso
-- 👀 I’m interested in Learn and share knowledge.
-- 👀 I'm a newbie, be forgiving if you see a "delay" is not the end of the world. Enjoy what you will find here.
-- 🌱 I am currently still learning
+- 👋 Hello, I'm @ManuUniverse
+- 👀 It's a hobby for me
+- 🌱 Currently I'm still learning
 - ⚡ Fun fact: [From here I see my house.](https://github.com/ManuUniverso)
 
 <!---
